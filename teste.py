@@ -1,5 +1,5 @@
 # ESSE É MEU PRIMEIRO PROJETO PYTHON, SISTEMA DE PERGUNTAS E RESPOSTAS, MOSTRANDO SE ESTÁ CORRETA OU INCORRETA, E AO FINAL MOSTRANDO SUA NOTA.
-print("Seja muito bem vindo ao quiz do Iury!")
+print("Seja muito bem vindo ao quiz!")
 answer_user = input("Quer começar? (S/N) ")
 
 if answer_user != "S":
